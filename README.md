@@ -1,2 +1,2 @@
-# scratch
+# CS50-Projects
 Hello
